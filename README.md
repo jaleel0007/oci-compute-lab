@@ -33,6 +33,7 @@ The goal was to build foundational skills in **cloud networking, security, and r
 2. **Generate SSH Keys**
    ```bash
    ssh-keygen -t rsa -b 4096
+
 Launch Oracle Linux 9.6 instance
 
 Assign public IP
